@@ -20,19 +20,7 @@ namespace BlazorApp.Controllers {
 
 		[HttpPost]
 		public async Task Post([FromBody] PlayersModel newPlayer) {
-			PlayersModel playersModel = new PlayersModel {
-				name = "Dupa",
-				surname = "Blada",
-				date = new DateTime().ToString(),
-				avatar = "QWE",
-				description = "Description",
-				user_id = 1,
-				bg_color = "QWE"
-
-			};
-
-
-			await _context.Players.InsertOneAsync(playersModel);
+			await _context.Players.InsertOneAsync(newPlayer);
 			return;
 		}
 	}

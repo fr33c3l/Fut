@@ -310,3 +310,4 @@ C:\Users\szlap\source\repos\Fut\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
 C:\Users\szlap\source\repos\Fut\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
 C:\Users\szlap\source\repos\Fut\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
 C:\Users\szlap\source\repos\Fut\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\szlap\source\repos\Fut\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json
